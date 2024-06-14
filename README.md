@@ -32,4 +32,3 @@ I've been working with Machine Learning algorithms and CNNs for the past 2 years
 
 <a href="https://github.com/ArnavChoudhary" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavChoudhary&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Spotify](https://spotify-github-profile-sage-pi.vercel.app/api/spotify)](https://open.spotify.com/user/lazygambler)
