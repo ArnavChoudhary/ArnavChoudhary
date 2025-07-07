@@ -1,15 +1,15 @@
 Hi 👋 My name is Arnav Choudhary
 ================================
 
-Machine Learning and Designing
+AI, ML and Cloud
 ------------------------------
 
 I've been working with Machine Learning algorithms and CNNs for the past 2 years and experience in graphic designing and UI/UX design.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [carnav2212@gmail.com](mailto:carnav2212@gmail.com)
-* 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on Frontend projects
+* 🧠  I'm learning Spring Boot
+* 🤝  I'm open to collaborating on Backend projects
 * ⚡  I'm not Jesse Eisenberg
 
 ### Skills
